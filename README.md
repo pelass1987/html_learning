@@ -1,5 +1,5 @@
-# html_learning
+# html and CSS learning
 
-## Html basics with comments in Polish
+## Html and CSS basics with comments in Polish
 ## Code edit on Brackets (http://brackets.io/)
 
